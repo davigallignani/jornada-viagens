@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Monteserrat";
-  src: url(../fonts/Monteserrat-Regular.ttf);
+  font-family: "Montserrat";
+  src: url(../fonts/Montserrat-Regular.ttf);
   font-style: normal;
   font-display: swap;
 }
@@ -39,7 +39,11 @@ button {
 }
 
 h1 {
-  font-family: "Monteserrat";
+  font-family: "Montserrat";
   font-weight: var(--titles-weight);
   color: var(--primary-color);
+}
+
+body {
+  font-family: "Montserrat";
 }
