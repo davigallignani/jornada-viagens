@@ -10,9 +10,11 @@
 }
 
 .card header {
+  padding: 0;
   display: block;
   background-color: transparent;
   position: static;
+  margin-bottom: 24px;
 }
 
 .card header p {
@@ -31,3 +33,4 @@
   margin-top: 24px;
   display: inline-block;
 }
+
