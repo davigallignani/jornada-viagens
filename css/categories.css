@@ -1,0 +1,30 @@
+.categories-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  margin-top: 64px;
+}
+
+.categories-cards a.card {
+  width: 312px;
+  height: 220px;
+  background-color: var(--background-color-secondary-color);
+  border-radius: 16px;
+  text-align: center;
+  color: var(--text-primary-color);
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.categories-cards a.card img {
+  width: auto;
+  height: 88px;
+  margin-top: 41px;
+}
+
+.categories-cards .card h3 {
+  margin-top: 24px;
+  font-size: 28px;
+  font-weight: var(--titles-weight);
+}
