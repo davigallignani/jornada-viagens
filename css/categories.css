@@ -1,5 +1,11 @@
-.categories {
+.categories .section-title{
   margin-top: 64px;
+}
+
+.section-title{
+  width: 312px;
+  margin: auto;
+
 }
 
 .categories-cards {
@@ -39,6 +45,12 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+  }
+
+  .categories .section-title{
+  width: auto;
+  margin: auto;
+
   }
 }
 
