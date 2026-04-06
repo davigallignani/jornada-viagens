@@ -1,13 +1,7 @@
-.categories {
-  margin-bottom: 80px;
-}
-.categories .section-title{
-  margin-top: 64px;
-}
-
-.section-title{
+.categories .section-title h2{
   width: 312px;
   margin: auto;
+  margin-top: 88px;
 
 }
 
