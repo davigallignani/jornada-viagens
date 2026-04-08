@@ -1,0 +1,122 @@
+.payments .image-content {
+    display: grid;
+    grid-template-columns: 2, 1fr;
+    gap: 24px;
+    margin-top: 24px;
+    height: 460px;
+    width: 100%;
+
+}
+
+.payments .image {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+
+.payments .image.large {
+    grid-column: span 2;
+}
+
+.payments .image.bag {
+    background: url(../img/bag-img-payments.png) no-repeat;
+    background-size: cover;
+}
+
+.payments .image.passaport {
+    background: url(../img/passaport-img-payments.png) no-repeat;
+    background-size: cover;
+}
+
+.payments .image.people {
+    background: url(../img/people-img-payments.png) no-repeat;
+    background-size: cover;
+}
+
+@media screen and (min-width: 768px) {
+
+
+    .payments h3 {
+        font-size: 28px;
+    }
+
+    .payments p {
+        font-size: 20px;
+    }
+
+
+
+    .payments .section-title {
+        text-align: center;
+        margin-top: 104px;
+    }
+
+    .payments .image.bag {
+        background: url(../img/bag-img-payments-tablet.png) no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .payments .image.passaport {
+        background: url(../img/passaport-img-payments-tablet.png) no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .payments .image.people {
+        background: url(../img/people-img-payments-tablet.png) no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+}
+
+@media screen and (min-width: 1440px) {
+
+
+    .payments .content-container {
+        display: flex;
+    }
+
+    .payments .image-content {
+        width: 790px;
+    }
+
+    .payments .text-content {
+        width: 360px;
+        padding-right: 23px;
+    }
+
+    .payments h3 {
+        font-size: 28px;
+    }
+
+    .payments p {
+        font-size: 20px;
+    }
+
+    .payments .section-title {
+        text-align: center;
+        margin-top: 104px;
+    }
+
+
+    .payments .image.bag {
+        background: url(../img/bag-img-payments-tablet.png) no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .payments .image.passaport {
+        background: url(../img/passaport-img-payments-tablet.png) no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .payments .image.people {
+        background: url(../img/people-img-payments-tablet.png) no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+}
