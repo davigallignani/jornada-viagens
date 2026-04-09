@@ -19,18 +19,21 @@
 }
 
 .payments .image.bag {
-    background: url(../img/bag-img-payments.png) no-repeat;
+    background: url(../img/bag-img-payments-mobile.png) no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .payments .image.passaport {
-    background: url(../img/passaport-img-payments.png) no-repeat;
+    background: url(../img/passport-img-payments-mobile.png) no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .payments .image.people {
-    background: url(../img/people-img-payments.png) no-repeat;
+    background: url(../img/people-img-payments-mobile.png) no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 @media screen and (min-width: 768px) {
@@ -58,7 +61,7 @@
     }
 
     .payments .image.passaport {
-        background: url(../img/passaport-img-payments-tablet.png) no-repeat;
+        background: url(../img/passport-img-payments-tablet.png) no-repeat;
         background-size: cover;
         background-position: center;
     }
@@ -76,6 +79,7 @@
 
     .payments .content-container {
         display: flex;
+        justify-content: space-between;
     }
 
     .payments .image-content {
@@ -84,7 +88,6 @@
 
     .payments .text-content {
         width: 360px;
-        padding-right: 23px;
     }
 
     .payments h3 {
@@ -102,19 +105,19 @@
 
 
     .payments .image.bag {
-        background: url(../img/bag-img-payments-tablet.png) no-repeat;
+        background: url(../img/bag-img-payments-desktop.png) no-repeat;
         background-size: cover;
         background-position: center;
     }
 
     .payments .image.passaport {
-        background: url(../img/passaport-img-payments-tablet.png) no-repeat;
+        background: url(../img/passport-img-payments-desktop.png) no-repeat;
         background-size: cover;
         background-position: center;
     }
 
     .payments .image.people {
-        background: url(../img/people-img-payments-tablet.png) no-repeat;
+        background: url(../img/people-img-payments-desktop.png) no-repeat;
         background-size: cover;
         background-position: center;
     }
