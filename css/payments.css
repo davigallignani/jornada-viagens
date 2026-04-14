@@ -1,3 +1,20 @@
+
+.payments h3 {
+    font-size: 28px;
+    font-weight: var(--titles-weight)
+}
+
+.payments h3 {
+    font-size: 28px;
+    font-weight: var(--titles-weight)
+}
+
+.payments p {
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: var(--text-weight)
+}
+
 .payments .image-content {
     display: grid;
     grid-template-columns: 2, 1fr;
@@ -51,7 +68,7 @@
 
     .payments .section-title {
         text-align: center;
-        margin-top: 104px;
+        margin-top: 88px;
     }
 
     .payments .image.bag {
