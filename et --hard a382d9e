@@ -1,0 +1,44 @@
+[33mc38d77b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #14 from davigallignani/feat/testimonials
+[33ma382d9e[m[33m ([m[1;31morigin/feat/testimonials[m[33m, [m[1;32mfeat/testimonials[m[33m)[m Finaliza estilos do mobile
+[33mb9f95b1[m Merge pull request #12 from davigallignani/feat/testimonials
+[33m7120da2[m Merge pull request #13 from davigallignani/feat/payments
+[33mdc0bf0f[m Inicializa css de testimonials
+[33m47e0653[m Cria branch e arquivo css do testimonials
+[33m6afe1fb[m[33m ([m[1;31morigin/feat/payments[m[33m, [m[1;32mfeat/payments[m[33m)[m Finaliza payments de verdade 2 vezes
+[33m60b4a40[m Finaliza de verdade o Payments
+[33m3723595[m Merge pull request #10 from davigallignani/feat/payments
+[33m8c4b558[m Fianaliza section payments
+[33m7f2cac9[m Merge pull request #9 from davigallignani/feat/payments
+[33me9c4d37[m Adicionar payments.css em style.css
+[33mfa847a8[m Adiciona estrutura da sessao de pagamentos
+[33mf3d1f32[m Merge pull request #8 from davigallignani/feat/popular-destinations
+[33mb9d42fd[m[33m ([m[1;31morigin/feat/popular-destinations[m[33m)[m Finaliza destinations
+[33mb0893b5[m Cria estrutura de destinos
+[33m79a6597[m Adiciona assets de destino
+[33me0549b6[m[33m ([m[1;31morigin/feat/search-by-category[m[33m)[m search-by-category finalizado
+[33m008ac2b[m finaliza o search-by-category
+[33m11ef5ed[m Merge pull request #7 from davigallignani/feat/search-by-category
+[33m53593d2[m Merge pull request #6 from davigallignani/feat/search-by-category
+[33m7476959[m Merge pull request #5 from davigallignani/feat/offers
+[33m8d02fff[m[33m ([m[1;31morigin/feat/offers[m[33m)[m site atualizado
+[33m1751a3e[m Finaliza sessao de ofertas
+[33mdc6d046[m Finaliza estilo do botao
+[33mc8763a5[m Cria estrutura do card de oferta
+[33mfce3743[m Adiciona titulo componentizado
+[33m001c0d9[m Merge pull request #3 from davigallignani/feat/hero
+[33mf97a7ab[m[33m ([m[1;31morigin/feat/hero[m[33m)[m Finaliza hero
+[33mf6a4219[m Adiciona hero tablet e desktop
+[33mc215353[m Inicia estrutura do hero
+[33mabacc25[m Merge pull request #2 from davigallignani/feat/header
+[33m226c6a5[m[33m ([m[1;31morigin/feat/header[m[33m)[m Finaliza estilização do header
+[33mcabd3ad[m Adiciona estilos para tablet
+[33m7dcc354[m Adiciona correçao da fonte e estilo ao menu aberto
+[33mf015262[m Adiciona funcionalidade de mostrar e esconder o menu
+[33mfb3d6b4[m Adiciona flexbox ao header
+[33m8aa99d4[m Adiciona estilos ao header
+[33md62332b[m Separa arquivos de css
+[33m35f9985[m Cria estrutura do menu
+[33m013bc00[m Merge pull request #1 from davigallignani/feat/adiciona-variaveis-de-fontes
+[33m4210d82[m[33m ([m[1;31morigin/feat/adiciona-variaveis-de-fontes[m[33m)[m Adiciona variaveis de fonte
+[33m5fc8007[m Adiciona variaveis de cores
+[33m115faf6[m Adiciona configuração inicial do projeto
