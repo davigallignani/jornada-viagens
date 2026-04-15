@@ -1,0 +1,24 @@
+.botton-hero .hero-img-booton {
+    background: url(../img/footer-hero-mobile.png) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+
+
+@media screen and (min-width: 768px) {
+    .botton-hero .hero-img-booton {
+    background: url(../img/footer-hero-tablet.png) no-repeat;
+    background-size: cover;
+    height: 768px;
+    }
+}
+
+
+@media screen and (min-width: 1440px) {
+    .botton-hero .hero-img-booton {
+    background: url(../img/footer-hero-desktop.png) no-repeat;
+    background-size: cover;
+    height: 600px;
+    }
+}
