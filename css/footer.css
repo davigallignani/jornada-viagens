@@ -37,6 +37,9 @@
   margin-top: 8px;
 }
 
+.main-footer .footer-social a {
+  display: inline-block;
+}
 .main-footer .footer-social {
   text-align: center;
   color: var(--text-secondary-color);
@@ -61,6 +64,32 @@
     background-size: cover;
     height: 768px;
   }
+
+  .main-footer {
+    background-color: var(--background-color-terciary-color);
+    padding: 32px 60px;
+  }
+
+  .main-footer .footer-content img {
+    width: 161.84px;
+    height: 40px;
+  }
+
+  .main-footer .footer-social {
+    text-align: center;
+    color: var(--text-secondary-color);
+    font-size: 20px;
+    font-weight: var(--text-weight);
+    line-height: 32px;
+  }
+
+  .main-footer .footer-content p {
+    color: var(--text-secondary-color);
+    font-size: 20px;
+    font-weight: var(--text-weight);
+    line-height: 32px;
+    text-align: start;
+  }
 }
 
 @media screen and (min-width: 1440px) {
@@ -68,5 +97,28 @@
     background: url(../img/footer-hero-desktop.png) no-repeat;
     background-size: cover;
     height: 600px;
+  }
+
+  .main-footer .footer-content {
+    text-align: start;
+  }
+
+  .main-footer {
+    background-color: var(--background-color-terciary-color);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 52px 120px;
+    box-sizing: border-box;
+  }
+
+  .main-footer .footer-social {
+    text-align: center;
+    color: var(--text-secondary-color);
+    font-size: 16px;
+    font-weight: var(--text-weight);
+    line-height: 28px;
   }
 }
