@@ -26,7 +26,7 @@
   background-size: cover;
 }
 
-.destinations .item header h4 {
+.destinations .item header h3 {
   font-size: 28px;
   font-weight: var(--titles-weight);
   margin: 24px 0px;
